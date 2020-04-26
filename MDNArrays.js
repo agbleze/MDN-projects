@@ -84,17 +84,14 @@ which should be familiar to you.
                 'Trousers:31.99',
                 'Shoes:23.99'];
                 */
-               
+
 let products = ['Underpants:6.99',
                 'Socks:5.99',
                 'T-shirt:14.99',
                 'Trousers:31.99',
                 'Shoes:23.99'];
 
- let number2 = number.split()
- console.log(number2)
-// number.replace
-/*
+
 for (let i = 0; i <= products.length; i++) { // number 2
   // number 3
 
