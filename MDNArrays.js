@@ -92,11 +92,24 @@ let products = ['Underpants:6.99',
                 'Shoes:23.99'];
 
 
-for (let i = 0; i <= products.length; i++) { // number 2
-  // number 3
+for (let i = 0; i < products.length; i++) { 
+ let prodSpli = products[i].split(':');
+ let name = prodSpli[0];
+ let price = Number(prodSpli[1]);
 
-  // number 4
-  
-  // number 5
-//  let itemText = 0;  
-*/
+ let total = 0
+    total += price
+let itemText = name + '- $' + price;
+console.log(itemText)
+
+}
+  // 
+  I've through a lot in many ways
+  And proud of my rainny days  
+  Its been a longtime coming
+  getting into the matrix cos we wanna make it
+  going for the horserace
+  I don't wanna rattle with people in the rat race
+  Now, we low so training to jump over the hurdles
+  We gonna make it burning the midnight candles
+  Just remain humble and you will never struggle
