@@ -114,3 +114,18 @@ Next, modify the first two items in the array using simple bracket notation and 
  Then add a new item to the beginning of the array.
 
  */
+
+
+
+ /*
+Arrays 2
+Now let's move on to another task. Here you are provided with a string to work with.
+ We'd like you to:
+
+Convert the string into an array, removing the + characters in the process. Save the result in
+ a variable called myArray.
+Store the length of the array in a variable called arrayLength.
+Store the last item in the array in a variable called lastItem.
+
+
+*/
