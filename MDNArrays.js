@@ -129,3 +129,20 @@ Store the last item in the array in a variable called lastItem.
 
 
 */
+
+
+
+/*
+Arrays 3
+For this final array task, we provide you with a starting array, and you will work in 
+somewhat the opposite direction. You need to:
+
+Remove the last item in the array.
+Add two new names to the end of the array.
+Go over each item in the array and add its index number after the name inside parentheses, 
+for example Ryu (0). Note that we don't teach how to do this in the Arrays article, so you'll 
+have to do some research.
+Finally, join the array items together in a single string, with a separator of " - ".
+
+
+*/
