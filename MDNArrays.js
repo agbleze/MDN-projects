@@ -103,13 +103,3 @@ let itemText = name + '- $' + price;
 console.log(itemText)
 
 }
-  // 
-  I've through a lot in many ways
-  And proud of my rainny days  
-  Its been a longtime coming
-  getting into the matrix cos we wanna make it
-  going for the horserace
-  I don't wanna rattle with people in the rat race
-  Now, we low so training to jump over the hurdles
-  We gonna make it burning the midnight candles
-  Just remain humble and you will never struggle
